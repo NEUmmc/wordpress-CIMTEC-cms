@@ -19,3 +19,7 @@ wordpress建站
 
 日本
 [glt language="Japanese" label="にほんご" image="yes" text="yes" image_size="24"]
+
+## 新闻板块整体删除
+![示例图](https://i.loli.net/2020/06/04/QdqWz3OGDeFRJyk.png) 
+
